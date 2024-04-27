@@ -1,8 +1,8 @@
 # kickstart.nvim
   * macos
-    ``` git clone git@github.com:furkansoyturk/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim ```
+  * ``` git clone git@github.com:furkansoyturk/kickstart.nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim ```
   * powershell
-    ``` git clone git@github.com:furkansoyturk/kickstart.nvim.git $env:USERPROFILE\AppData\Local\nvim\ ```
+  * ``` git clone git@github.com:furkansoyturk/kickstart.nvim.git $env:USERPROFILE\AppData\Local\nvim\ ```
 ## Introduction
 
 A starting point for Neovim that is:
